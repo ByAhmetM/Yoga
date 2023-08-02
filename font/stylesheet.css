@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Mollie glaston';
+    src: url('Mollieglaston.woff2') format('woff2'),
+        url('Mollieglaston.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
